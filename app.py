@@ -1,3 +1,4 @@
+# KR2: Dvurechensky
 import os
 import socket
 
